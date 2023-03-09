@@ -1,0 +1,10 @@
+-2 -2.0 XX YYYYYYYY                                           ZZZZZZZZZZZZZ                 
+51 0.0 SP SAO PAULO                                         PEDAGOGIA               
+219084 0.0 SP SAO PAULO                                         PEDAGOGIA               
+
+-1 -1.00  XX YYYYYYYY                                           ZZZZZZZZZZZZZ                 
+349641 0.0 SP PIRAJU                                            PEDAGOGIA               
+179962 0.0 PR CURITIBA                                          DIREITO                 
+87384 0.0 MG BELO HORIZONTE                                    LETRAS              
+-2 -2.0  XX YYYYYYYY                                           ZZZZZZZZZZZZZ                 
+     

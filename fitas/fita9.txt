@@ -1,0 +1,10 @@
+-2 -2.0 XX YYYYYYYY                                           ZZZZZZZZZZZZZ                 
+67 0.0 PR SAO JOSE DOS PINHAIS                              DIREITO                 
+336557 0.0 SP SANTO ANDRE                                       PEDAGOGIA               
+
+-1 -1.00  XX YYYYYYYY                                           ZZZZZZZZZZZZZ                 
+23659 0.0 SP SAO PAULO                                         PEDAGOGIA               
+366197 0.0 SP SAO PAULO                                         PEDAGOGIA               
+32158 0.0 SP SANTOS                                            PEDAGOGIA           
+-2 -2.0  XX YYYYYYYY                                           ZZZZZZZZZZZZZ                 
+     

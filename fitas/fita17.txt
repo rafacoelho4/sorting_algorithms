@@ -1,0 +1,5 @@
+-2 -2.0 XX YYYYYYYY                                           ZZZZZZZZZZZZZ                 
+2 0.0 MT AGUA BOA                                          ADMINISTRACAO           
+396484 0.0 PR SAO JOSE DOS PINHAIS                              DIREITO             
+-2 -2.0  XX YYYYYYYY                                           ZZZZZZZZZZZZZ                 
+     

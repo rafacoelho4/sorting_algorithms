@@ -1,0 +1,10 @@
+-2 -2.0 XX YYYYYYYY                                           ZZZZZZZZZZZZZ                 
+5 0.0 RJ RIO DE JANEIRO                                    PEDAGOGIA               
+229653 0.0 SP SAO PAULO                                         PEDAGOGIA               
+
+-1 -1.00  XX YYYYYYYY                                           ZZZZZZZZZZZZZ                 
+345967 0.0 SP SANTOS                                            PEDAGOGIA               
+109851 0.0 SP SAO PAULO                                         PEDAGOGIA               
+225254 0.0 SP SAO PAULO                                         PEDAGOGIA           
+-2 -2.0  XX YYYYYYYY                                           ZZZZZZZZZZZZZ                 
+     

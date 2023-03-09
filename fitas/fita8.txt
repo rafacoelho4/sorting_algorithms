@@ -1,0 +1,10 @@
+-2 -2.0 XX YYYYYYYY                                           ZZZZZZZZZZZZZ                 
+3 0.0 MT CUIABA                                            ADMINISTRACAO           
+98006 0.0 SP SANTO ANDRE                                       PEDAGOGIA               
+
+-1 -1.00  XX YYYYYYYY                                           ZZZZZZZZZZZZZ                 
+131352 0.0 SP SANTOS                                            PEDAGOGIA               
+450862 0.0 PR LONDRINA                                          DIREITO                 
+34223 0.0 MG BELO HORIZONTE                                    LETRAS              
+-2 -2.0  XX YYYYYYYY                                           ZZZZZZZZZZZZZ                 
+     

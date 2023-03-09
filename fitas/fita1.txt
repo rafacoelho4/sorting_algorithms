@@ -1,0 +1,101 @@
+82212 0.0 SP OSASCO                                                 PEDAGOGIA               
+433487 0.0 PR CURITIBA                                               DIREITO                 
+437602 0.0 SP OSASCO                                                 PEDAGOGIA               
+413946 0.0 SP SANTO ANDRE                                            PEDAGOGIA               
+445818 0.0 SP OSASCO                                                 PEDAGOGIA               
+372002 0.0 SP SANTO ANDRE                                            PEDAGOGIA               
+73807 0.0 SP SANTO ANDRE                                            PEDAGOGIA               
+397613 0.0 SP OSASCO                                                 PEDAGOGIA               
+357211 0.0 SP SANTO ANDRE                                            PEDAGOGIA               
+380370 0.0 PR SAO JOSE DOS PINHAIS                                   DIREITO                 
+465119 0.0 SP SANTO ANDRE                                            PEDAGOGIA               
+292513 0.0 SP SANTO ANDRE                                            PEDAGOGIA               
+464859 0.0 SP SANTO ANDRE                                            PEDAGOGIA               
+115239 0.0 SP OSASCO                                                 PEDAGOGIA               
+232581 0.0 SP OSASCO                                                 PEDAGOGIA               
+198182 0.0 SP SANTO ANDRE                                            PEDAGOGIA               
+255462 0.0 SP SANTO ANDRE                                            PEDAGOGIA               
+260082 0.0 SP SANTO ANDRE                                            PEDAGOGIA               
+273493 0.0 SP SANTO ANDRE                                            PEDAGOGIA               
+328786 0.0 PR SAO JOSE DOS PINHAIS                                   DIREITO                 
+210359 0.0 SP SANTO ANDRE                                            PEDAGOGIA               
+318914 0.0 SP SANTO ANDRE                                            PEDAGOGIA               
+59573 0.0 MT CUIABA                                                 ADMINISTRACAO           
+98006 0.0 SP SANTO ANDRE                                            PEDAGOGIA               
+117915 0.0 SP SANTO ANDRE                                            PEDAGOGIA               
+470167 0.0 PR SAO JOSE DOS PINHAIS                                   DIREITO                 
+336557 0.0 SP SANTO ANDRE                                            PEDAGOGIA               
+151750 0.0 MT PRIMAVERA DO LESTE                                     ADMINISTRACAO           
+24535 0.0 RJ RIO DE JANEIRO                                         PEDAGOGIA               
+229653 0.0 SP SAO PAULO                                              PEDAGOGIA               
+351800 0.0 SP OSASCO                                                 PEDAGOGIA               
+95630 0.0 SP SAO PAULO                                              PEDAGOGIA               
+10743 0.0 SP SAO PAULO                                              PEDAGOGIA               
+423855 0.0 MT CUIABA                                                 ADMINISTRACAO           
+1874 0.0 SP SAO PAULO                                              PEDAGOGIA               
+358715 0.0 SP SAO PAULO                                              PEDAGOGIA               
+263552 0.0 PR SAO JOSE DOS PINHAIS                                   DIREITO                 
+338151 0.0 SP SAO PAULO                                              PEDAGOGIA               
+219084 0.0 SP SAO PAULO                                              PEDAGOGIA               
+84218 0.0 SP SAO PAULO                                              PEDAGOGIA               
+136265 0.0 PR CURITIBA                                               DIREITO                 
+207334 0.0 MT CUIABA                                                 ADMINISTRACAO           
+273250 0.0 SP SAO PAULO                                              PEDAGOGIA               
+212770 0.0 SP SAO PAULO                                              PEDAGOGIA               
+416077 0.0 SP SAO PAULO                                                  PEDAGOGIA           
+393783 0.0 SP SAO PAULO                                              PEDAGOGIA               
+413477 0.0 MG BELO HORIZONTE                                         LETRAS                  
+239381 0.0 SP SAO BERNARDO DO CAMPO                                      PEDAGOGIA           
+357339 0.0 MG BELO HORIZONTE                                         LETRAS                  
+57202 0.0 MT AGUA BOA                                               ADMINISTRACAO           
+396484 0.0 PR SAO JOSE DOS PINHAIS                                       DIREITO             
+117111 0.0 SP OSASCO                                                 PEDAGOGIA               
+321325 0.0 SP SAO BERNARDO DO CAMPO                                  PEDAGOGIA               
+123170 0.0 SP OSASCO                                                     PEDAGOGIA           
+343536 0.0 SP OSASCO                                                 PEDAGOGIA               
+308773 0.0 SP SAO BERNARDO DO CAMPO                                  PEDAGOGIA               
+243926 0.0 SP OSASCO                                                     PEDAGOGIA           
+88161 0.0 SP SAO BERNARDO DO CAMPO                                  PEDAGOGIA               
+320222 0.0 SP SAO BERNARDO DO CAMPO                                  PEDAGOGIA               
+29436 0.0 SP SAO BERNARDO DO CAMPO                                      PEDAGOGIA           
+17730 0.0 SP SAO BERNARDO DO CAMPO                                  PEDAGOGIA               
+345868 0.0 PR SAO JOSE DOS PINHAIS                                   DIREITO                 
+286300 0.0 PR CURITIBA                                                   DIREITO             
+154280 0.0 SP SAO BERNARDO DO CAMPO                                  PEDAGOGIA               
+60596 0.0 SP SAO BERNARDO DO CAMPO                                  PEDAGOGIA               
+331371 0.0 SP SAO BERNARDO DO CAMPO                                      PEDAGOGIA           
+345308 0.0 SP OSASCO                                                 PEDAGOGIA               
+382242 0.0 SP OSASCO                                                 PEDAGOGIA               
+48004 0.0 SP SANTOS                                                     PEDAGOGIA           
+176099 0.0 SP SANTOS                                                 PEDAGOGIA               
+157902 0.0 SP OSASCO                                                 PEDAGOGIA               
+338366 0.0 SP SANTOS                                                     PEDAGOGIA           
+191426 0.0 SP SANTOS                                                 PEDAGOGIA               
+432125 0.0 SP SANTOS                                                 PEDAGOGIA               
+400893 0.0 SP OSASCO                                                     PEDAGOGIA           
+326412 0.0 SP SANTOS                                                 PEDAGOGIA               
+143913 0.0 SP SANTOS                                                 PEDAGOGIA               
+47497 0.0 DF BRASILIA                                                   ADMINISTRACAO       
+132825 0.0 SP SANTOS                                                 PEDAGOGIA               
+149151 0.0 MG BELO HORIZONTE                                         LETRAS                  
+217172 0.0 SP SANTOS                                                     PEDAGOGIA           
+131352 0.0 SP SANTOS                                                 PEDAGOGIA               
+450862 0.0 PR LONDRINA                                               DIREITO                 
+34223 0.0 MG BELO HORIZONTE                                             LETRAS              
+23659 0.0 SP SAO PAULO                                              PEDAGOGIA               
+366197 0.0 SP SAO PAULO                                              PEDAGOGIA               
+32158 0.0 SP SANTOS                                                     PEDAGOGIA           
+345967 0.0 SP SANTOS                                                 PEDAGOGIA               
+109851 0.0 SP SAO PAULO                                              PEDAGOGIA               
+225254 0.0 SP SAO PAULO                                                  PEDAGOGIA           
+38541 0.0 PR CURITIBA                                               DIREITO                 
+366209 0.0 SP SAO PAULO                                              PEDAGOGIA               
+165688 0.0 SP SAO PAULO                                                  PEDAGOGIA           
+402610 0.0 SP SAO PAULO                                              PEDAGOGIA               
+178641 0.0 SC CHAPECO                                                GEOGRAFIA               
+2339 0.0 SP SAO PAULO                                                  PEDAGOGIA           
+349641 0.0 SP PIRAJU                                                 PEDAGOGIA               
+179962 0.0 PR CURITIBA                                               DIREITO                 
+87384 0.0 MG BELO HORIZONTE                                             LETRAS              
+284153 0.0 RJ RIO DE JANEIRO                                             PEDAGOGIA           
+-2 -2.0 XX YYYYYYYY                                           ZZZZZZZZZZZZZ                 

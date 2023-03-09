@@ -1,0 +1,10 @@
+-2 -2.0 XX YYYYYYYY                                           ZZZZZZZZZZZZZ                 
+ 0.0 SP SAO PAULO                                         PEDAGOGIA               
+358715 0.0 SP SAO PAULO                                         PEDAGOGIA               
+
+-1 -1.00  XX YYYYYYYY                                           ZZZZZZZZZZZZZ                 
+402610 0.0 SP SAO PAULO                                         PEDAGOGIA               
+178641 0.0 SC CHAPECO                                           GEOGRAFIA               
+2339 0.0 SP SAO PAULO                                         PEDAGOGIA           
+-2 -2.0  XX YYYYYYYY                                           ZZZZZZZZZZZZZ                 
+     

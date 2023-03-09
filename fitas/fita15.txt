@@ -1,0 +1,5 @@
+-2 -2.0 XX YYYYYYYY                                           ZZZZZZZZZZZZZ                 
+70 0.0 SP SAO PAULO                                         PEDAGOGIA               
+416077 0.0 SP SAO PAULO                                         PEDAGOGIA           
+-2 -2.0  XX YYYYYYYY                                           ZZZZZZZZZZZZZ                 
+     

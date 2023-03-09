@@ -1,0 +1,10 @@
+-2 -2.0 XX YYYYYYYY                                           ZZZZZZZZZZZZZ                 
+0 0.0 SP SAO PAULO                                         PEDAGOGIA               
+10743 0.0 SP SAO PAULO                                         PEDAGOGIA               
+
+-1 -1.00  XX YYYYYYYY                                           ZZZZZZZZZZZZZ                 
+38541 0.0 PR CURITIBA                                          DIREITO                 
+366209 0.0 SP SAO PAULO                                         PEDAGOGIA               
+165688 0.0 SP SAO PAULO                                         PEDAGOGIA           
+-2 -2.0  XX YYYYYYYY                                           ZZZZZZZZZZZZZ                 
+     

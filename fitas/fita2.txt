@@ -1,0 +1,10 @@
+-2 -2.0 XX YYYYYYYY                                           ZZZZZZZZZZZZZ                 
+18 0.0 SP OSASCO                                            PEDAGOGIA               
+372002 0.0 SP SANTO ANDRE                                       PEDAGOGIA               
+
+-1 -1.00  XX YYYYYYYY                                           ZZZZZZZZZZZZZ                 
+154280 0.0 SP SAO BERNARDO DO CAMPO                             PEDAGOGIA               
+60596 0.0 SP SAO BERNARDO DO CAMPO                             PEDAGOGIA               
+331371 0.0 SP SAO BERNARDO DO CAMPO                             PEDAGOGIA           
+-2 -2.0  XX YYYYYYYY                                           ZZZZZZZZZZZZZ                 
+     

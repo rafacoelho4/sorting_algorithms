@@ -1,0 +1,8 @@
+-2 -2.0 XX YYYYYYYY                                           ZZZZZZZZZZZZZ                 
+5 0.0 PR CURITIBA                                          DIREITO                 
+207334 0.0 MT CUIABA                                            ADMINISTRACAO           
+
+-1 -1.00  XX YYYYYYYY                                           ZZZZZZZZZZZZZ                 
+284153 0.0 RJ RIO DE JANEIRO                                    PEDAGOGIA           
+-2 -2.0  XX YYYYYYYY                                           ZZZZZZZZZZZZZ                 
+     

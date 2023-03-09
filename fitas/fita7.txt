@@ -1,0 +1,10 @@
+-2 -2.0 XX YYYYYYYY                                           ZZZZZZZZZZZZZ                 
+86 0.0 PR SAO JOSE DOS PINHAIS                              DIREITO                 
+210359 0.0 SP SANTO ANDRE                                       PEDAGOGIA               
+
+-1 -1.00  XX YYYYYYYY                                           ZZZZZZZZZZZZZ                 
+132825 0.0 SP SANTOS                                            PEDAGOGIA               
+149151 0.0 MG BELO HORIZONTE                                    LETRAS                  
+217172 0.0 SP SANTOS                                            PEDAGOGIA           
+-2 -2.0  XX YYYYYYYY                                           ZZZZZZZZZZZZZ                 
+     

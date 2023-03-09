@@ -1,0 +1,10 @@
+-2 -2.0 XX YYYYYYYY                                           ZZZZZZZZZZZZZ                 
+3 0.0 SP OSASCO                                            PEDAGOGIA               
+357211 0.0 SP SANTO ANDRE                                       PEDAGOGIA               
+
+-1 -1.00  XX YYYYYYYY                                           ZZZZZZZZZZZZZ                 
+345308 0.0 SP OSASCO                                            PEDAGOGIA               
+382242 0.0 SP OSASCO                                            PEDAGOGIA               
+48004 0.0 SP SANTOS                                            PEDAGOGIA           
+-2 -2.0  XX YYYYYYYY                                           ZZZZZZZZZZZZZ                 
+     

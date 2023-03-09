@@ -1,0 +1,5 @@
+-2 -2.0 XX YYYYYYYY                                           ZZZZZZZZZZZZZ                 
+77 0.0 MG BELO HORIZONTE                                    LETRAS                  
+239381 0.0 SP SAO BERNARDO DO CAMPO                             PEDAGOGIA           
+-2 -2.0  XX YYYYYYYY                                           ZZZZZZZZZZZZZ                 
+     

@@ -1,0 +1,5 @@
+-2 -2.0 XX YYYYYYYY                                           ZZZZZZZZZZZZZ                 
+2 0.0 SP SAO BERNARDO DO CAMPO                             PEDAGOGIA               
+29436 0.0 SP SAO BERNARDO DO CAMPO                             PEDAGOGIA           
+-2 -2.0  XX YYYYYYYY                                           ZZZZZZZZZZZZZ                 
+     

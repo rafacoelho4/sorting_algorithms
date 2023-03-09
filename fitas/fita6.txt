@@ -1,0 +1,10 @@
+-2 -2.0 XX YYYYYYYY                                           ZZZZZZZZZZZZZ                 
+62 0.0 SP SANTO ANDRE                                       PEDAGOGIA               
+260082 0.0 SP SANTO ANDRE                                       PEDAGOGIA               
+
+-1 -1.00  XX YYYYYYYY                                           ZZZZZZZZZZZZZ                 
+326412 0.0 SP SANTOS                                            PEDAGOGIA               
+143913 0.0 SP SANTOS                                            PEDAGOGIA               
+47497 0.0 DF BRASILIA                                          ADMINISTRACAO       
+-2 -2.0  XX YYYYYYYY                                           ZZZZZZZZZZZZZ                 
+     
